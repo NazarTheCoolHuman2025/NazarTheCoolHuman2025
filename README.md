@@ -9,4 +9,3 @@
 ### IPv6: 2001:0db8:85a3:0000:0000:8a2e:0370:7334.
 ### My Country: Russian
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebedy"/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
