@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 
 ### My Age: 12
 ### My PC: Windows 11
