@@ -7,4 +7,4 @@
 ### My Country: Russian
 ### mountains
 mountains are healthy
-![NazarHr24's Stats](https://github-readme-stats.vercel.app/api?username=NazarTheCoolHuman2025&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![NazarHr24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazarHr24&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![NazarHr24's Stats](https://github-readme-stats.vercel.app/api?username=NazarTheCoolHuman2025&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![NazarHr24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazarTheCoolHuman2025&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
