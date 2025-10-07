@@ -11,8 +11,13 @@ mountains are healthy
 
 # Credits
 **Swag FRENZY**
+
 **Rover The Cool Dog**
-Luca, BBV, Secret Staycations,
+
+Luca, BBV, Secret Staycations
+
 Thwompman
+
 MTV Dance
+
 Anti-Fune
