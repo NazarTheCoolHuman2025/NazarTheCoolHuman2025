@@ -22,4 +22,4 @@ MTV Dance
 
 Anti-Fune
 
-Izhank216 (Izhan)
+Izhank216
